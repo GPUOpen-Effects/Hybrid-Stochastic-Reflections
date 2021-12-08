@@ -1,0 +1,42 @@
+{
+    "width": 1920,
+    "height": 1080,
+    "fullScreen": false,
+    "benchmark": false,
+    "scenes": [
+        {
+            "name": "Bistro Interior",
+            "directory": "..\\Cauldron-Media\\BistroInterior\\",
+            "filename": "scene.gltf",
+            "toneMapper": 2,
+            "iblFactor": 0.026,
+            "emmisiveFactor": 30,
+            "intensity": 10,
+            "exposure": 1,
+            "CameraControlSelected": 0,
+            "reflectionFactor": 1.3,
+            "depthBufferThickness": 0.2,
+            "ssr_confidence_threshold": 0.9,
+            "sunProjectionWidth": 16.0,
+            "sunPhi": -1.145,
+            "sunTheta": 0.097,
+            "SunLightIntensity": 9
+        },
+		{
+            "name": "Hybrid Reflections Bike",
+            "directory": "..\\Cauldron-Media\\HybridReflections\\",
+            "filename": "scene.gltf",
+            "toneMapper": 2,
+            "iblFactor": 0.1,
+            "emmisiveFactor": 30,
+            "reshade": false,
+            "intensity": 10,
+            "SunLightIntensity": 2.0,
+            "reflectionFactor": 2.0,
+            "sunProjectionWidth": 16.0,
+            "exposure": 1,
+            "cameraTo": [0.0, 0.0, 0.0],
+            "CameraControlSelected": 1
+        }
+    ]
+}

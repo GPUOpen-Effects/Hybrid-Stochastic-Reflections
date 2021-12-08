@@ -1,0 +1,18 @@
+[submodule "ffx-sssr"]
+	path = ffx-sssr
+	url = ../FidelityFX-SSSR.git
+[submodule "sample/libs/cauldron"]
+	path = sample/libs/cauldron
+	url = ../../GPUOpen-LibrariesAndSDKs/Cauldron.git
+[submodule "sample/Cauldron-Media"]
+	path = sample/Cauldron-Media
+	url = ../../GPUOpen-LibrariesAndSDKs/Cauldron-Media.git
+[submodule "ffx-spd"]
+	path = ffx-spd
+	url = ../FidelityFX-SPD.git
+[submodule "ffx-dnsr"]
+	path = ffx-dnsr
+	url = ../FidelityFX-Denoiser.git
+[submodule "ffx-fsr"]
+	path = ffx-fsr
+	url = ../FidelityFX-FSR.git
